@@ -14,8 +14,14 @@
 - C.	Slick
 - D.	Aurelia
 #### 4.	MUST BE POWERED BY A DATASET WITH AT LEAST 100 RECORDS. 
+- A. Do512 (event)
+- B. parkme (parking)
+- C. weather.com (weather)
+- D. facebook (number of attendees/popularity of event)
 #### 5.	MUST INCLUDE SOME LEVEL OF USER-DRIVEN INTERACTION (E.G. MENUS, DROPDOWNS, TEXTBOXES, ETC.)
-#### 6.	YOUR FINAL VISUALIZAT
+- search bar
+- filter/dropdown
+#### 6.	FINAL VIS MUST HAVE 3 VIEWS
 
 #### HOME LANDING PAGE
 
