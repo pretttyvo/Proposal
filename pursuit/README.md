@@ -1,6 +1,6 @@
 # PURSUIT
 ### Project Details
-Create a site that collects data from google, amazon, and walmart on product/search trends. Make a unique page for a search term, condensing the information to be easy to read and infer from. The user will input a search term and the search term will be pushed into the sites to pull data on yearly trends, popularity by state, and where is it most popular. The user may then filter by the three sources if desired. 
+Create a site that collects data from google, amazon, and Helium 10 on product/search trends. Make a unique page for a search term, condensing the information to be easy to read and infer from. The user will input a search term and the search term will be pushed into the sites to pull data on yearly trends, popularity by state, and where is it most popular. The user may then filter by the three sources if desired. 
 
 #### 1.	VISUALIZATION
 - A.	Python Flask powered RESTful API, 
@@ -18,8 +18,8 @@ Create a site that collects data from google, amazon, and walmart on product/sea
 - D.	Aurelia
 #### 4.	MUST BE POWERED BY A DATASET WITH AT LEAST 100 RECORDS. 
 - A. Google Trends
-- B. Amazon API or Helium 10
-- C. Walmart API
+- B. Amazon API 
+- C. Helium 10
 #### 5.	MUST INCLUDE SOME LEVEL OF USER-DRIVEN INTERACTION (E.G. MENUS, DROPDOWNS, TEXTBOXES, ETC.)
 - search bar
 - filter/dropdown
