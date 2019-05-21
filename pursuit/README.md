@@ -19,9 +19,9 @@ Provide data on profitability, competitors, etc., for user to determine if there
 - C.	Slick
 - D.	Aurelia
 #### 4.	MUST BE POWERED BY A DATASET WITH AT LEAST 100 RECORDS. 
-- A. Google Trends [https://trends.google.com/trends/?geo=US]
-- B. Amazon API [https://aws.amazon.com/api-gateway/getting-started/]
-- C. Helium 10 [https://www.helium10.com/]
+- A. [Link to Google Trends](https://trends.google.com/trends/?geo=US)
+- B. [Amazon API](https://aws.amazon.com/api-gateway/getting-started/)
+- C. [Helium 10](https://www.helium10.com/)
 #### 5.	MUST INCLUDE SOME LEVEL OF USER-DRIVEN INTERACTION (E.G. MENUS, DROPDOWNS, TEXTBOXES, ETC.)
 - search bar
 - filter/dropdown
